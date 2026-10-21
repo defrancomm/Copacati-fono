@@ -1,0 +1,10 @@
+{
+    "autodeskProduct": "Fusion",
+    "type": "script",
+    "author": "",
+    "description": {
+        "": "Rotor troncocónico paramétrico para impresión 3D con prisionero radial M3 e inserto térmico."
+    },
+    "supportedOS": "windows|mac",
+    "editEnabled": true
+}
